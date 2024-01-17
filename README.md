@@ -1,20 +1,20 @@
 # README
-# Movie Info Storage and Recommender System: Emulation-based Distributed File Storage & Parallel Computation
+# Movie Info Storage and Recommender System: Distributed File Storage & Parallel Computation
 
 ## Introduction
 ### Welcome to Movie Info Storage and Recommender System! 🍿
 
-The Movie Info Storage and Recommender (MISR) System is an emulation-based system designed for distributed file storage and parallel computation. This system, built on top of Firebase, is equipped to handle extensive movie information and user ratings sourced from Kaggle: The Movie Dataset. It also supports essential file system commands, such as mkdir, ls, put, and readPartition.
+The Movie Info Storage and Recommender (MISR) System is an emulation-based system designed for `distributed file storage and parallel computation`. This system, built on top of `Firebase`, is equipped to handle extensive movie information and user ratings sourced from `Kaggle: The Movie Dataset`. It also supports essential file system commands, such as mkdir, ls, put, and readPartition.
 
-Through a user-friendly UI, individuals can seamlessly navigate the system using their accounts and access personalized services accelerated by MapReduce. The offered services encompass functionalities like Search Movie, Get Movie Trends, and Item-based Collaborative Filtering Recommendations.
+Through a user-friendly UI, individuals can seamlessly navigate the system using their accounts and access personalized services accelerated by MapReduce. The offered services encompass functionalities like `Search Movie`, `Get Movie Trends`, and `Item-based Collaborative Filtering Recommendations`.
 
 ### Why is it original?
 
-- The MISR system ensures more reliable data storage by leveraging distributed file storage. This approach involves storing replicas across various data nodes, thereby ensuring sustainable access
+- The MISR system ensures `more reliable data storage` by leveraging distributed file storage. This approach involves storing replicas across various data nodes, thereby ensuring sustainable access
 
-- The MISR system delivers faster movie recommendations through the implementation of parallel computation. This allows the system to swiftly process extensive datasets and execute recommendation algorithms, providing timely and efficient recommendations to users.
+- The MISR system delivers `faster movie recommendations` through the implementation of parallel computation. This allows the system to swiftly process extensive datasets and execute recommendation algorithms, providing timely and efficient recommendations to users.
 
-- The MISR system offers a broader range of expansion functions. For instance, users have the flexibility to explore a private distributed file storage space and gain visual insights into current movie trends.
+- The MISR system offers `a broader range of expansion functions`. For instance, users have the flexibility to explore a private distributed file storage space and gain visual insights into current movie trends.
 
 ## Getting Started
 ### Prerequisite:
