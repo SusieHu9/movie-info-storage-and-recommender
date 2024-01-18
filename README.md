@@ -17,18 +17,21 @@ Through a user-friendly UI, individuals can seamlessly navigate the system using
 - The MISR system offers `a broader range of expansion functions`. For instance, users have the flexibility to explore a private distributed file storage space and gain visual insights into current movie trends.
 
 ## Getting Started
-### Prerequisite:
-
+### Run the MISR system
+To run the web application, follow these steps:
+1. Clone this repository to your local machine.
+2. Install required dependencies.
 ```bash
-# install required packages
 pip install streamlit-aggrid
 pip install wordcloud
 pip install streamlit
 pip install pandas
-
-# run the web application
+```
+3. Run the web application.
+```bash
 streamlit run Main.py
 ```
+
 ### Testing User:
 ```bash
 # role: admin
@@ -105,7 +108,7 @@ The MISR system has 4 layers: UI Layer, Service Layer, Data Access Layer, and Da
 - [Python](https://www.python.org/) for backend
 - [Firebase Realtime Database](https://firebase.google.com/) for database
 
-### Documentation
+### File Description:
 - command: implementation code
 - kaggle_data_sources: data source
 - pages: frontend code
