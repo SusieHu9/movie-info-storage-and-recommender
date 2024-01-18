@@ -32,7 +32,7 @@ pip install pandas
 streamlit run Main.py
 ```
 
-### Testing User:
+### Testing User
 ```bash
 # role: admin
 username: admin 
@@ -108,7 +108,7 @@ The MISR system has 4 layers: UI Layer, Service Layer, Data Access Layer, and Da
 - [Python](https://www.python.org/) for backend
 - [Firebase Realtime Database](https://firebase.google.com/) for database
 
-### File Description:
+### File Description
 - command: implementation code
 - kaggle_data_sources: data source
 - pages: frontend code
